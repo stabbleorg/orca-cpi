@@ -3,7 +3,6 @@ name = "whirlpool"
 version = "0.1.0"
 description = "CPI Adapter for Orca Whirlpool"
 edition = "2021"
-keywords = ["solana", "anchor", "raydium"]
 
 [lib]
 crate-type = ["cdylib", "lib"]
