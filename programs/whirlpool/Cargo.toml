@@ -14,4 +14,4 @@ cpi = ["no-entrypoint"]
 no-entrypoint = []
 
 [dependencies]
-anchor-lang = "^0.30.0"
+anchor-lang = ">=0.26, <=0.31"
